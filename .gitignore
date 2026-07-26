@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+results.json
+confusion_matrix.png
+ground_truth.csv
